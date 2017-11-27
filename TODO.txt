@@ -1,0 +1,2 @@
+figure out how to center header
+remove post title and date on research page
