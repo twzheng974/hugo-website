@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reflections on Graduation Project</title>
-    <link>festive-spence-7a91ca.netlify.com/reflection/</link>
+    <link>https://festive-spence-7a91ca.netlify.com/reflection/</link>
     <description>Recent content in Reflections on Graduation Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="festive-spence-7a91ca.netlify.com/reflection/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://festive-spence-7a91ca.netlify.com/reflection/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown Formatting Demostration</title>
-      <link>festive-spence-7a91ca.netlify.com/reflection/mdexamples/</link>
+      <link>https://festive-spence-7a91ca.netlify.com/reflection/mdexamples/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>festive-spence-7a91ca.netlify.com/reflection/mdexamples/</guid>
+      <guid>https://festive-spence-7a91ca.netlify.com/reflection/mdexamples/</guid>
       <description> Add one # and a space before the heading
 Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 *Bold* &amp;ndash;&amp;gt; Bold
 **Italic** &amp;ndash;&amp;gt; Italic
@@ -26,10 +26,10 @@ Horizontal Line by three or more hyphens or underscores </description>
     
     <item>
       <title>Post1</title>
-      <link>festive-spence-7a91ca.netlify.com/reflection/post1/</link>
+      <link>https://festive-spence-7a91ca.netlify.com/reflection/post1/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>festive-spence-7a91ca.netlify.com/reflection/post1/</guid>
+      <guid>https://festive-spence-7a91ca.netlify.com/reflection/post1/</guid>
       <description></description>
     </item>
     
