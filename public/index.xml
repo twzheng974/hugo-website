@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Graduation Project</title>
-    <link>https://festive-spence-7a91ca.netlify.com/</link>
+    <link>https://twz-gradproject.netlify.com/</link>
     <description>Recent content on Graduation Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://festive-spence-7a91ca.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://twz-gradproject.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown Formatting Demostration</title>
-      <link>https://festive-spence-7a91ca.netlify.com/reflection/mdexamples/</link>
+      <link>https://twz-gradproject.netlify.com/reflection/mdexamples/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://festive-spence-7a91ca.netlify.com/reflection/mdexamples/</guid>
+      <guid>https://twz-gradproject.netlify.com/reflection/mdexamples/</guid>
       <description> Add one # and a space before the heading
 Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 *Bold* &amp;ndash;&amp;gt; Bold
 **Italic** &amp;ndash;&amp;gt; Italic
@@ -26,19 +26,19 @@ Horizontal Line by three or more hyphens or underscores </description>
     
     <item>
       <title>Post1</title>
-      <link>https://festive-spence-7a91ca.netlify.com/reflection/post1/</link>
+      <link>https://twz-gradproject.netlify.com/reflection/post1/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://festive-spence-7a91ca.netlify.com/reflection/post1/</guid>
+      <guid>https://twz-gradproject.netlify.com/reflection/post1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy in the Modern World</title>
-      <link>https://festive-spence-7a91ca.netlify.com/research/</link>
+      <link>https://twz-gradproject.netlify.com/research/</link>
       <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://festive-spence-7a91ca.netlify.com/research/</guid>
+      <guid>https://twz-gradproject.netlify.com/research/</guid>
       <description>Privacy in the Modern World  In the modern world, technology is what connects everyone - and everything - to the Internet. However, ignorance of privacy has cost people. People have posted insults towards others for greed and attention, only to find out they got fired the next day for their public actions. Or maybe, one of the fancy new “smart” furniture in one’s house is actually spying on them unknowingly, all because they ignored the fine print completely.</description>
     </item>
     
