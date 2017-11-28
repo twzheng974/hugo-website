@@ -1,7 +1,6 @@
 ---
 title: "Privacy in the Modern World"
 date: 2016-12-16
-tags: []
 draft: false
 ---
 ### <p style="text-align: center"> Privacy in the Modern World </p>
@@ -10,7 +9,7 @@ draft: false
 In the modern world, technology is what connects everyone - and everything - to the Internet. However, ignorance of privacy has cost people. People have posted insults towards others for greed and attention, only to find out they got fired the next day for their public actions. Or maybe, one of the fancy new “smart” furniture in one’s house is actually spying on them unknowingly, all because they ignored the fine print completely. Privacy is “the right to be left alone” (qtd. in Gervais) and is important in the growth of personalities and creativity (Gervais 27). But with the increase of technological growth, privacy is constantly challenged (Siegel 1). Internet users must place privacy as their highest technological priority due to the flippancy that inherently comes with egoism, the growth of technological development, and the increase in government surveillance utilizing those technologies.
 </p>
 
-<p style="text-align: left"> 
+<p style="text-align: left">
 Social media is possibly the most prominent violator of internet privacy primarily due to the lack of care from the users. Often, this is because of the user’s need for self-gratification. Users’ need of entertainment can frequently cause privacy concerns to be overridden, due to the users’ inability to constrain themselves (Chen and Kim 807). This can be the need for sharing pictures of themselves for comments or linking Facebook or Twitter to games and other sources of entertainment for rewards. Also, users believe that in order to make the most out of social media, one must share private information in the face of potential risk (Quinn 62-63). This behavior is known by some researchers as the “Privacy Paradox,” where users are heavily concerned about their online privacy, but contradict themselves due to unwillingness of configuring their privacy settings within the network (Quinn 63). The ignorance of privacy concerns will be more likely exchanged for the benefit of social media (Chen and Kim 807,810). Through this act of selfishness, solely for the sake of entertainment, the users greatly risk their own privacy.
 </p>
 
