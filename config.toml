@@ -1,12 +1,12 @@
 baseURL = "https://twz-gradproject.netlify.com/"
 languageCode = "en-us"
-title = "Graduation Project"
+title = "My Collections"
 theme = "minimal"
 googleAnalytics = ""
 
 [params]
     author = "Jimmy Zheng"
-    description = "Cloud Hosting"
+    description = "Yoyos and Cubes"
     githubUsername = "#"
     backgroundColor = "white"
     font = "Ubuntu" # should match the name on Google Fonts!
@@ -17,28 +17,28 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.main]]
-    url = "/reflection/"
-    name = "Reflections"
+    url = "/yoyo/"
+    name = "Yoyos"
     weight = 2
 
 [[menu.main]]
-    url = "/research/"
-    name = "Research Paper"
+    url = "/cubes/"
+    name = "Cubes"
     weight = 3
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
 
-#[[menu.icon]]
-#    url = "mailto:me@example.com"
-#    name = "envelope-o"
-#    weight = 1
+[[menu.icon]]
+    url = "mailto:twzheng974@gmail.com"
+    name = "envelope-o"
+    weight = 1
 
-#[[menu.icon]]
-#    url = "https://github.com/username/"
-#    name = "github"
-#    weight = 2
+[[menu.icon]]
+    url = "https://github.com/twzheng974/hugo-website/"
+    name = "github"
+    weight = 2
 
 #[[menu.icon]]
 #    url = "https://twitter.com/username/"
